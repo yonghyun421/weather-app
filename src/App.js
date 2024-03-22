@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import './App.css';
 import {useEffect, useState} from "react";
 import WeatherBox from "./component/WeatherBox";
